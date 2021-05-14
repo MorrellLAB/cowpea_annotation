@@ -3,6 +3,8 @@
 
 ## The reference genome for Vicia unguiculata, IT97K-499-35
 
+*   The genome is at [Phytozome](https://genome.jgi.doe.gov/portal/pages/dynamicOrganismDownload.jsf?organism=Phytozome)
+*   Md5 checksum listed as: `9de80c37396a9f7ee13e6fd80b4e984e`
 
 ```bash
 cd /scratch.global/pmorrell/Cowpeapan/VunguiculataIT97K-499-35_v1.2/assembly
