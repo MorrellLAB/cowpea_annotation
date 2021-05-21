@@ -1,0 +1,10 @@
+WARNING: Chromosome contig_197 not found in annotation sources or synonyms on line 56620
+WARNING: Chromosome contig_321 not found in annotation sources or synonyms on line 56648
+WARNING: Chromosome contig_414 not found in annotation sources or synonyms on line 56650
+WARNING: Chromosome contig_45 not found in annotation sources or synonyms on line 56654
+WARNING: Chromosome contig_482 not found in annotation sources or synonyms on line 56673
+WARNING: Chromosome contig_492 not found in annotation sources or synonyms on line 56674
+WARNING: Chromosome contig_526 not found in annotation sources or synonyms on line 56679
+WARNING: Chromosome contig_542 not found in annotation sources or synonyms on line 56681
+WARNING: Chromosome contig_546 not found in annotation sources or synonyms on line 56687
+WARNING: Chromosome contig_566 not found in annotation sources or synonyms on line 56688
