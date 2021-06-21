@@ -6,7 +6,8 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=pmorrell@umn.edu
 
-# This scirpt is designed to require one argument, the path the sam alignment.
+# This scirpt is designed to require three arguments.
+# 1) full path to SAM aligment, 2) full path to uncompressed reference genome, 3) full path to output directory
 [ $# -eq 0 ] && { echo "Usage: $0 'full path to .sam file' and 'full path to reference genome'"; exit 1; }
 
 module load python3/3.6.3_anaconda5.0.1
@@ -18,7 +19,7 @@ SNPs=/panfs/roc/groups/9/morrellp/pmorrell/Workshop/Cowpea/SNP_Utils/iSelect_all
 SAM=$1
 REF=$2
 MAP=/panfs/roc/groups/9/morrellp/pmorrell/Workshop/Cowpea/SNP_Utils/Cowpea_consesus_map_plink_2.txt
-OUT_DIR=/scratch.global/pmorrell/Cowpea
+OUT_DIR=$3
 DIR=$(basename "$SAM" .sam)
 
 cd "${SNP_Utils_dir}" || exit
