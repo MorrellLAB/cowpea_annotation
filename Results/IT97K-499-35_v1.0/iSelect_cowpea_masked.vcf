@@ -1,0 +1,22 @@
+##fileformat=VCFv4.2
+##fileDate=20210912
+##source=snp_utils.py
+##reference=Vunguiculata_IT97K-499-35_v1.0.fa
+##INFO=<ID=ALTCHR,Number=.,Type=String,Description="Alternate chromosomal positions">
+##INFO=<ID=ALTPOS,Number=.,Type=Integer,Description="Alternate positions">
+##INFO=<ID=S,Number=0,Type=Flag,Description="Variant Calculated from SAM">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+Vu03	4186223	1_0244	C	N	.	.	S
+Vu04	41782979	1_1058	T	N	.	.	S
+Vu07	34999259	1_1447	C	N	.	.	S
+Vu07	33629574	2_15680	G	N	.	.	S
+Vu06	21846417	2_32339	T	N	.	.	S
+Vu02	11250326	2_40730	G	N	.	.	S
+Vu09	18123492	2_41455	A	N	.	.	S
+Vu04	28790525	2_42197	A	N	.	.	S
+Vu07	15730626	2_42955	T	N	.	.	S
+Vu08	6188283	2_43410	A	N	.	.	S
+Vu09	17962156	2_44504	G	N	.	.	S
+Vu10	1232950	2_44623	A	N	.	.	S
+Vu04	24429479	2_47410	T	N	.	.	S
+Vu09	17956781	2_47776	A	N	.	.	S
