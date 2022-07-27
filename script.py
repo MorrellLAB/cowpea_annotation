@@ -2,6 +2,7 @@ from cigar import Cigar
 
 
 # This program will take in one file, file that has duplicate SNP's and write a new file with a better SNP to keep. 
+# By Nathan Liang, 7/27/2022 in Saint Pual
 f = open("result.sam", "r")
 new_file = open("final.txt", "w")
 
