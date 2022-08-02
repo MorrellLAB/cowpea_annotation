@@ -10,3 +10,6 @@
 ## Using SNPMeta to identify genes names
 
 *   [SNPMeta](https://github.com/MorrellLAB/SNPMeta) is a BLAST parser that identifies the genes in which SNPs occur and can identify the nature of mutations (e.g., synonymous versus nonsynonymous). SNPMeta design and usage is detailed in  [Kono et al. 2014](https://doi.org/10.1111/1755-0998.12183).
+
+## Variant Effect Predictor (VeP) results for iSelect SNPs
+*   [VeP](https://github.com/MorrellLAB/cowpea_annotation/tree/main/Results/IT97K-499-35_v1.0/VeP) VeP annotations have been applied for all SNP positions indentified for the original iSelect design fileVeP annotations have been applied for all SNP positions indentified for the original iSelect design file 
